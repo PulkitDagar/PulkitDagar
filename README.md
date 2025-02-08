@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulkitdagar" alt="pulkitdagar" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Adobe Illustrator, Python**
+- 🌱 I’m currently learning **Machine Learning, Adobe Illustrator, System Design**
 
 - 💬 Ask me about **React, Javascript, backend**
 
